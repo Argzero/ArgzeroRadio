@@ -85,7 +85,7 @@
         "icons": {
         "residentdj": "http://argzero.org/images/icon.png"
         },
-        "playback": "http://argzero.org/images/loading.png"
+        "playback": "http://argzero.org/images/base.gif"
 },
     "rules": {
         "allowAutorespond": "true",
