@@ -48,13 +48,13 @@
 			"#room-bar": {
 		                   "background-color ": "rgba(40, 44, 53, 0.4)"
 		               },
-		  ".room-background":{"background-size":"cover"},
+		  ".room-background":{"background-size":"cover", "background-repeat":"repeat"},
 		  "#room-name": {
 		  "color":"orange",
 		  "font-weight":"900"
 		  },
 		  "#room-host": {
-		  "color":"#FFFFFF",
+		  "color":"#00FFAC",
 		  "font-weight":"bold"
 		  },
 		  
