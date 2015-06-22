@@ -48,7 +48,8 @@
 			"#room-bar": {
 		                   "background-color ": "rgba(40, 44, 53, 0.4)"
 		               },
-		  ".room-background":{"background-size":"cover", "background-repeat":"repeat"},
+		  ".room-background":{"background-size":"cover", "background-repeat":"repeat", "background-position":"center"},
+		  ".background>img":{"background-size":"cover", "background-repeat":"none", "background-position":"bottom"},
 		  "#room-name": {
 		  "color":"orange",
 		  "font-weight":"900"
