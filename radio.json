@@ -81,7 +81,7 @@
         }
     },
    "images": {
-        "background": "",
+        "background": "http://argzero.org/images/loading.png",
         "icons": {
         "residentdj": "http://argzero.org/images/icon.png"
         },
